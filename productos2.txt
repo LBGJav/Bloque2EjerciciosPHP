@@ -1,0 +1,10 @@
+camiseta 19.99 25
+pantalon 34.50 12
+gorra 12.00 40
+sudadera 45.00 15
+calcetines 4.99 80
+zapatillas 65.50 8
+chaqueta 89.90 5
+bufanda 9.95 30
+mochila 29.99 18
+cinturon 14.50 22
